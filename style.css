@@ -1,0 +1,83 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{background-color:#FAFAD2;
+    }
+header{text-align: center;
+       color:#643907;font-family:lucida handwriting,times,cursive;background-color:#c87532;
+       border-style:solid;
+       text-shadow: 2px 2px 5px #5f3f1c; }
+
+.tooltip{position: relative;display: inline-block;border-bottom: 1px dotted black;}
+.tooltip .tooltiptext{visibility: hidden;width:120px;background-color: #c87532;color: #643907;text-align:center;padding: 5px 0;border-radius: 6px;position: absolute; z-index: 1;}
+.tooltip:hover .tooltiptext{visibility: visible;}
+
+.tooltip{position: relative;display: inline-block;border-bottom: 1px dotted black;}
+.tooltip .tooltiptext{visibility: hidden;width:120px;background-color: #c87532;color: #643907;text-align:center;padding: 5px 0;border-radius: 6px;position: absolute; z-index: 1;}
+.tooltip:hover .tooltiptext{visibility: visible;}
+
+.tooltip{position: relative;display: inline-block;border-bottom: 1px dotted black;}
+.tooltip .tooltiptext{visibility: hidden;width:120px;background-color: #c87532;color: #643907;text-align:center;padding: 5px 0;border-radius: 6px;position: absolute; z-index: 1;}
+.tooltip:hover .tooltiptext{visibility: visible;}
+
+.tooltip{position: relative;display: inline-block;border-bottom: 1px dotted black;}
+.tooltip .tooltiptext{visibility: hidden;width:120px;background-color: #c87532;color: #643907;text-align:center;padding: 5px 0;border-radius: 6px;position: absolute; z-index: 1;}
+.tooltip:hover .tooltiptext{visibility: visible;}
+
+.tooltip{position: relative;display: inline-block;border-bottom: 1px dotted black;}
+.tooltip .tooltiptext{visibility: hidden;width:120px;background-color: #c87532;color: #643907;text-align:center;padding: 5px 0;border-radius: 6px;position: absolute; z-index: 1;}
+.tooltip:hover .tooltiptext{visibility: visible;}
+
+.tooltip{position: relative;display: inline-block;border-bottom: 1px dotted black;}
+.tooltip .tooltiptext{visibility: hidden;width:120px;background-color: #c87532;color: #643907;text-align:center;padding: 5px 0;border-radius: 6px;position: absolute; z-index: 1;}
+.tooltip:hover .tooltiptext{visibility: visible;}
+
+.tooltip{position: relative;display: inline-block;border-bottom: 1px dotted black;}
+.tooltip .tooltiptext{visibility: hidden;width:120px;background-color: #c87532;color: #643907;text-align:center;padding: 5px 0;border-radius: 6px;position: absolute; z-index: 1;}
+.tooltip:hover .tooltiptext{visibility: visible;}
+
+.tooltip{position: relative;display: inline-block;border-bottom: 1px dotted black;}
+.tooltip .tooltiptext{visibility: hidden;width:120px;background-color: #c87532;color: #643907;text-align:center;padding: 5px 0;border-radius: 6px;position: absolute; z-index: 1;}
+.tooltip:hover .tooltiptext{visibility: visible;}
+
+.tooltip{position: relative;display: inline-block;border-bottom: 1px dotted black;}
+.tooltip .tooltiptext{visibility: hidden;width:120px;background-color: #c87532;color: #643907;text-align:center;padding: 5px 0;border-radius: 6px;position: absolute; z-index: 1;}
+.tooltip:hover .tooltiptext{visibility: visible;}
+
+.tooltip{position: relative;display: inline-block;border-bottom: 1px dotted black;}
+.tooltip .tooltiptext{visibility: hidden;width:120px;background-color: #c87532;color: #643907;text-align:center;padding: 5px 0;border-radius: 6px;position: absolute; z-index: 1;}
+.tooltip:hover .tooltiptext{visibility: visible;}
+
+h3{color:#643907;text-shadow: 2px 2px 5px #8d6434;text-decoration: #c87532;text-decoration-style: solid;text-align: center;}
+
+.descripción
+{color:#2b1f17;
+text-align: center;
+  }
+body{text-align: center;
+color:#433328;
+ }
+
+.despedida{color:#433328;
+          text-decoration: solid;
+           text-align: left;
+          }
+.partguitarra{color:#442708;
+             
+             }
+
+.csllcuerda{color:#473015;
+           
+           }
+.csafina{color:#402f1c;
+        
+        }
+
+.nombre{color:#382415;
+  text-align: right;
+        background-color:#ac8a62;
+        
+       }
+
+
